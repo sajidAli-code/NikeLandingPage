@@ -1,40 +1,37 @@
-<<<<<<< HEAD
-# NikeLandingPage
-=======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nike 👘
 
-## Getting Started
+**Frontend in NextJS App Routing**
+Welcome to the ultimate destination for Nike enthusiasts! Our Nike landing page is designed to showcase the latest and greatest in athletic footwear and apparel, blending cutting-edge style with performance. Explore our curated collections, featuring iconic designs and innovative technology that empower you to push your limits. Whether you’re a seasoned athlete or a casual fitness fan, find the perfect gear to elevate your game and express your unique style. Step into a world where passion meets performance—let's get moving with Nike!
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Home Page**: Showcase of nike shoes products
+- **About Us**: Give the info about the company.
+- **Products Page**: Show all products available in store.
+- **Contact Us**: You can contact with us by using **Form** and **Maps**.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️ Tech Stack
 
-## Learn More
+| Frontend      | 
+| ------------- |
+| NextJS        | 
+| Tailwind CSS  | 
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To install dependencies for the backend and frontend, run the following commands:
 
-## Deploy on Vercel
+npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> ef812cf (Initial commit)
+![App Screenshot](https://github.com/sajidAli-code/NikeLandingPage/blob/main/public/home.png)
+![App Screenshot](https://github.com/sajidAli-code/NikeLandingPage/blob/main/public/aboutUs.png)
+![App Screenshot](https://github.com/sajidAli-code/NikeLandingPage/blob/main/public/products.png)
+![App Screenshot](https://github.com/sajidAli-code/NikeLandingPage/blob/main/public/contactUs.png)
